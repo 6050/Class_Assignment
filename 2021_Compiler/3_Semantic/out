@@ -1,0 +1,263 @@
+
+C-MINUS COMPILATION: test.1.txt
+
+Building Symbol Table...
+====PRINT NODE====
+line : 4
+type : Declaration
+  type : FuncK
+val : gcd
+==================
+====PRINT NODE====
+line : 4
+type : Declaration
+  type : ParamK
+val : u
+==================
+====PRINT NODE====
+line : 4
+type : Declaration
+  type : ParamK
+val : v
+==================
+====PRINT NODE====
+line : 5
+type : Statement
+  type : CompK
+==================
+====PRINT NODE====
+line : 7
+type : Statement
+  type : SelectK
+==================
+====PRINT NODE====
+line : 6
+type : Expression
+  type : OpK
+name : 267
+==================
+====PRINT NODE====
+line : 6
+type : Expression
+  type : VarEK
+name : 16913904
+==================
+====PRINT NODE====
+line : 6
+type : Expression
+  type : ConstK
+name : 0
+==================
+====PRINT NODE====
+line : 6
+type : Statement
+  type : ReturnK
+==================
+====PRINT NODE====
+line : 6
+type : Expression
+  type : VarEK
+name : 16914208
+==================
+====PRINT NODE====
+line : 7
+type : Statement
+  type : ReturnK
+==================
+====PRINT NODE====
+line : 7
+type : Expression
+  type : CallK
+name : 16914432
+==================
+====PRINT NODE====
+line : 7
+type : Expression
+  type : VarEK
+name : 16914576
+==================
+====PRINT NODE====
+line : 7
+type : Expression
+  type : OpK
+name : 282
+==================
+====PRINT NODE====
+line : 7
+type : Expression
+  type : VarEK
+name : 16914720
+==================
+====PRINT NODE====
+line : 7
+type : Expression
+  type : OpK
+name : 285
+==================
+====PRINT NODE====
+line : 7
+type : Expression
+  type : OpK
+name : 284
+==================
+====PRINT NODE====
+line : 7
+type : Expression
+  type : VarEK
+name : 16914944
+==================
+====PRINT NODE====
+line : 7
+type : Expression
+  type : VarEK
+name : 16915168
+==================
+====PRINT NODE====
+line : 7
+type : Expression
+  type : VarEK
+name : 16915392
+==================
+====PRINT NODE====
+line : 9
+type : Statement
+  type : CompK
+==================
+====PRINT NODE====
+line : 10
+type : Declaration
+  type : VarK
+val : a
+==================
+====PRINT NODE====
+line : 14
+type : Declaration
+  type : FuncK
+val : main
+==================
+====PRINT NODE====
+line : 14
+type : Declaration
+  type : ParamK
+val : (null)
+==================
+====PRINT NODE====
+line : 15
+type : Statement
+  type : CompK
+==================
+====PRINT NODE====
+line : 16
+type : Declaration
+  type : VarK
+val : x
+==================
+====PRINT NODE====
+line : 16
+type : Declaration
+  type : VarK
+val : y
+==================
+====PRINT NODE====
+line : 17
+type : Expression
+  type : AssignK
+name : 0
+==================
+====PRINT NODE====
+line : 17
+type : Expression
+  type : VarEK
+name : 16916832
+==================
+====PRINT NODE====
+line : 17
+type : Expression
+  type : CallK
+name : 16916976
+==================
+====PRINT NODE====
+line : 17
+type : Expression
+  type : AssignK
+name : 0
+==================
+====PRINT NODE====
+line : 17
+type : Expression
+  type : VarEK
+name : 16917200
+==================
+====PRINT NODE====
+line : 17
+type : Expression
+  type : CallK
+name : 16917344
+==================
+====PRINT NODE====
+line : 18
+type : Expression
+  type : CallK
+name : 16917568
+==================
+====PRINT NODE====
+line : 18
+type : Expression
+  type : CallK
+name : 16917712
+==================
+====PRINT NODE====
+line : 18
+type : Expression
+  type : VarEK
+name : 16917856
+==================
+====PRINT NODE====
+line : 18
+type : Expression
+  type : VarEK
+name : 16918000
+==================
+
+Symbol table:
+
+Variable Name  Location   Line Numbers
+-------------  --------   ------------
+
+Checking Types...
+====PRINT NODE====
+line : 4
+type : Declaration
+  type : FuncK
+val : gcd
+==================
+====PRINT NODE====
+line : 4
+type : Declaration
+  type : ParamK
+val : u
+==================
+====PRINT NODE====
+line : 4
+type : Declaration
+  type : ParamK
+val : v
+==================
+====PRINT NODE====
+line : 5
+type : Statement
+  type : CompK
+==================
+====PRINT NODE====
+line : 7
+type : Statement
+  type : SelectK
+==================
+====PRINT NODE====
+line : 6
+type : Expression
+  type : OpK
+name : 267
+==================
+====PRINT NODE====
+lin

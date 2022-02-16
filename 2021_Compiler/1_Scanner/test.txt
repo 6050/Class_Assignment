@@ -1,0 +1,8 @@
+void main(void)
+{
+	int i = 56
+	/* Do
+	   something * / */
+}
+
+/* Program Exit
